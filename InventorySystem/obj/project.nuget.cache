@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "gF7gtOv7Pr9s9PONusne83GnxY9MWA01d0PmgWOUgDRCMMQbNDEF8fhAqDjAy/KAPVl7koVkg++AaY4vZ4PGow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\asmaa\\Desktop\\.net track\\c#\\InventorySystem\\InventorySystem\\InventorySystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\asmaa\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\asmaa\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\asmaa\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\asmaa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
